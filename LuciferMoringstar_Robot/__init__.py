@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Jd Vaathi Mechine😻
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Jd Vaathi](
+https://t.me/Malluhubbmovies)
 
-➥ Language : Python3
+➥ Language : കണ്ടിട്ട് എന്ത് തോന്നുന്നു 🥸
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : Closed😏
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/Malluhubbmovies)
 """
