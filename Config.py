@@ -36,6 +36,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Messages
 default_start_msg = """
 **Hi, I'm JD Vaathi Mechine V3 👉🏻😚👈🏻**
+നീ ഏതാ മോനൂസെ എന്നെ MALLU HUB MOVIES ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ... വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...😌
 
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
 """
